@@ -2,5 +2,6 @@
 #include <locale.h>
 void main(void) {
 	printf("Hello world");
+	printf("poka");
 	_getch();
 }
